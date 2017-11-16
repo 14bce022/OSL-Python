@@ -1,4 +1,4 @@
-# OSL-Python_ver1
+# OSL-Python_MEmorygame
 
 This is a small game developed in python. Here user is given just 5 seconds to remember the tiles with images on it. After 5 seconds all the tiles
 are covered with same image, and user has to pair up tiles with same images.
